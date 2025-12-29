@@ -9,7 +9,7 @@ export default function Home() {
     <main className="min-h-screen bg-gray-900 flex flex-col items-center justify-center p-8">
       <div className="text-center mb-16 mt-8">
         <h1 className="text-5xl md:text-6xl font-extrabold text-transparent bg-clip-text bg-gradient-to-r from-blue-400 to-emerald-400 tracking-tight mb-6">
-          The Filmmaker's Handbook
+          The Filmmaker&apos;s Handbook
         </h1>
         <p className="text-xl text-gray-400 max-w-2xl mx-auto leading-relaxed">
           The essential visual dictionary for Directors, DPs, and Editors.
